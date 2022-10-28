@@ -14,6 +14,7 @@ TagManager:
   - tomato
   - garlic
   - grape
+  - watermelon
   layers:
   - Default
   - TransparentFX
